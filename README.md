@@ -10,7 +10,7 @@
 <h2> 🌐 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/dilesh-makanjee/">
-  <img align="left" alt="Dilesh Makanjee | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img align="left" alt="Dilesh Makanjee | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0072b1" />
 </a>
 <a href="mailto:dilesh.makanjee@hotmail.com">
   <img align="left" alt="Dilesh Makanjee | Outlook" width="22px" src="https://img.shields.io/badge/Outlook-FFFFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" />
