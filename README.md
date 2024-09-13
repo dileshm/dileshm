@@ -3,7 +3,7 @@
 <h2> 💻 Software Development Projects:</h2>
 
 - <b>Machine Learning</b>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Ocean Temperature Graphs Python</a>
 - <b>API</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">Weather App</a>
 
@@ -11,5 +11,8 @@
 
 <a href="https://www.linkedin.com/in/dilesh-makanjee/">
   <img align="left" alt="Dilesh Makanjee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:dilesh.makanjee@hotmail.com">
+  <img align="left" alt="Dilesh Makanjee | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
 <!--
