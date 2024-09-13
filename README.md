@@ -3,9 +3,9 @@
 <h2> 💻 Software Development Projects:</h2>
 
 - <b>Machine Learning</b>
-  - <a href="https://github.com/dileshm/OceanDataScience">Ocean Temperature Graphs Python</a>
+  - <a href="[https://github.com/dileshm/OceanDataScience](https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience)">Ocean Temperature Graphs Python</a>
 - <b>API</b>
-  - <a href="https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm">Weather App</a>
+  - <a href="[https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp)">Weather App</a>
 
 <h2> 🌐 Connect with me:</h2>
 
