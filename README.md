@@ -8,7 +8,7 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">Weather App</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
-- <b>Server Side</b>
+- <b>Back End</b>
   - <a href="">Online Multiplayer Game (Comming soon)</a>  
 - <b>RaspBerry Pi</b>
   - <a href="">Security System (Coming soon)</a>
