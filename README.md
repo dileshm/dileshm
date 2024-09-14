@@ -6,7 +6,11 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
 - <b>API</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">Weather App</a>
-
+- <b>Scripting</b>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">JPG to PNG Converter</a>
+- <b>RaspBerry Pi</b>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">Security System (Coming soon)</a>
+  
 <h2> 🌐 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/dilesh-makanjee/">
