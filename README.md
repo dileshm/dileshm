@@ -11,7 +11,7 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Back End</b>
   - <a href="">Online Multiplayer Game (Coming soon)</a>  
-- <b>RaspBerry Pi</b>
+- <b>Raspberry Pi</b>
   - <a href="">Security System (Coming soon)</a>
   
 <h2> 🌐 Connect with me:</h2>
