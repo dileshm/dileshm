@@ -4,7 +4,7 @@
 
 - <b>Machine Learning</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
-- <b>API</b>
+- <b>APIs</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">Weather App</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
