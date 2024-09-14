@@ -9,7 +9,7 @@
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Back End</b>
-  - <a href="">Online Multiplayer Game (Comming soon)</a>  
+  - <a href="">Online Multiplayer Game (Coming soon)</a>  
 - <b>RaspBerry Pi</b>
   - <a href="">Security System (Coming soon)</a>
   
