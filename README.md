@@ -12,7 +12,7 @@
 - <b>Back End</b>
   - <a href="">Online Multiplayer Game (Coming soon)</a>  
 - <b>Raspberry Pi</b>
-  - <a href="">Security System (Coming soon)</a>
+  - <a href="">Fullstack Security System (Coming soon)</a>
   
 <h2> 🌐 Connect with me:</h2>
 
