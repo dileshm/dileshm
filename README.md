@@ -7,11 +7,11 @@
 - <b>APIs</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APITranslatorApp">(Google) Translate App (Coming soon)</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(OpenWeather) Weather App</a>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(Amadeus) Flight Finder (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/FlightFinder">(Amadeus) Flight Finder (Coming soon)</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Back End</b>
-  - <a href="">Messenger App (Coming soon)</a>  
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/MessengerApp">Messenger App (Coming soon)</a>  
 - <b>Raspberry Pi</b>
   - <a href="">Fullstack Security System (Coming soon)</a>
   - <a href="">Fullstack Health Monitor (Coming soon)</a>
