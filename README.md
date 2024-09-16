@@ -6,8 +6,8 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
 - <b>APIs</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APITranslatorApp">(Google) Translate App (Coming soon)</a>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(OpenWeather) Weather App</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/FlightFinder">(Amadeus) Flight Finder (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(OpenWeather) Weather App</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Back End</b>
