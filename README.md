@@ -10,11 +10,11 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(OpenWeather) Weather App</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
-- <b>Back End</b>
+- <b>Backend</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Hacker News Web Scraper</a>  
 - <b>Raspberry Pi</b>
-  - <a href="">Fullstack Security System (Coming soon)</a>
-  - <a href="">Fullstack Health Monitor (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Fullstack Security System (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/PatientHealthMonitor">Fullstack Health Monitor (Coming soon)</a>
   
   
 <h2> 🌐 Connect with me:</h2>
