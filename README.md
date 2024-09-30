@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dilesh! <br/><a href="https://github.com/dileshm">Aspiring Software Developer</a>, <a href="https://www.linkedin.com/in/dilesh-makanjee/">Learner</a></h1>
+<h1>Hi, I'm Dilesh! <br/><a href="https://github.com/dileshm">Aspiring Software Developer</a>
 
 <h2> 💻 Software Development Projects:</h2>
 
