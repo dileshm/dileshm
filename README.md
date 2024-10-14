@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dilesh! <br/>
-<a href="![CV](https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c)">Download my CV</a>
+<a href="[![CV](https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c)](https://private-user-images.githubusercontent.com/158072984/376391602-cb773284-6ed5-4f83-acf0-0b97f45fcf6c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg5NDIzMzMsIm5iZiI6MTcyODk0MjAzMywicGF0aCI6Ii8xNTgwNzI5ODQvMzc2MzkxNjAyLWNiNzczMjg0LTZlZDUtNGY4My1hY2YwLTBiOTdmNDVmY2Y2Yy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxNFQyMTQwMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZTJiN2Y3OWMzZTU2OTA3ZDAyZTJjZjU5N2JmOWIyMzNjOWFhZGY3ZTM1ODg4ZWQyOTdiYzA5YzkyZjhiYjUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-hSbbrP-wnmN06R2u61uXysEJUpyCic1M8nMOnEUKYA)">View my CV</a>
 </h1>
 
 <h2> 💻 My Projects:</h2>
