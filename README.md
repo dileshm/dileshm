@@ -1,31 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dilesh's CV</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            text-align: center;
-        }
-        iframe {
-            width: 100%;
-            height: 600px; /* Adjust height as needed */
-            border: none;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Hi, I'm Dilesh! <br/>
-<a href="![CV](https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c)">View my CV</a></h1>
-<iframe src="https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c"></iframe>
-
-</body>
-</html>
-
+<a href="https://www.dropbox.com/s/cb7732846ed54f83acfcf6c?dl=1" target="_blank">Software Developer</a></h1>
 
 <h2> 💻 My Projects:</h2>
 
