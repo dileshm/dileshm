@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dilesh! <br/><a href="(https://www.dropbox.com/scl/fi/02izh79qvx50k4rt0qtu3/CV.jpg?rlkey=ffw19lyfefxmt1v8hxwl2h8zn&st=quw8ldpv&dl=0)">Software Developer</a></h1>
+<h1>Hi, I'm Dilesh! <br/><a href="https://www.dropbox.com/scl/fi/02izh79qvx50k4rt0qtu3/CV.jpg?rlkey=ffw19lyfefxmt1v8hxwl2h8zn&st=quw8ldpv&dl=0">Software Developer</a></h1>
 
 <h2>💻 My Projects:</h2>
 
