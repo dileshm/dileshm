@@ -1,8 +1,8 @@
 <h1>Hi, I'm Dilesh!<br/>
 
-<a href="https://www.dropbox.com/s/cb7732846ed54f83acfcf6c?dl=1" target="_blank">Software Developer CV</a></h1>
+<a href="https://www.dropbox.com/s/cb7732846ed54f83acfcf6c?dl=1" target="_blank">Software Developer</a></h1>
 
-<h2> 💻 My Projects:</h2>
+<h2>💻 My Projects:</h2>
 
 - <b>Machine Learning</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
