@@ -1,9 +1,6 @@
-<h1>Hi, I'm Dilesh! <br/><a href="![CV](https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c)">View my CV</a></h1>
-<iframe src="https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c" 
-        width="100%" 
-        height="600px" 
-        style="border: none;">
-</iframe>
+<h1>Hi, I'm Dilesh! <br/>
+<a href="![CV](https://gist.github.com/user-attachments/assets/cb773284-6ed5-4f83-acf0-0b97f45fcf6c)">Download my CV</a>
+</h1>
 
 <h2> 💻 My Projects:</h2>
 
