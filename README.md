@@ -13,8 +13,8 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Hacker News Web Scraper</a>  
 - <b>Fullstack</b>
   - <a href="https://github.com/dileshm/TripTrak">TripTrak Website</a>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Fullstack Security System for Raspberry Pi (Coming soon)</a>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/PatientHealthMonitor">Fullstack Health Monitor for Raspberry Pi (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Security System for Raspberry Pi (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/PatientHealthMonitor">Health Monitor for Raspberry Pi (Coming soon)</a>
   
   
 <h2> 🌐 Connect with me:</h2>
