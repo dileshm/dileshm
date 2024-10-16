@@ -6,13 +6,13 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
 - <b>API</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APITranslatorApp">(Google) Translate App (Coming soon)</a>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/FlightFinder">(Amadeus) Flight Finder (Coming soon)</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(OpenWeather) Weather App</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Backend</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Hacker News Web Scraper</a>  
 - <b>Fullstack</b>
+  - <a href="https://github.com/dileshm/TripTrak">TripTrak Website</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Fullstack Security System (Coming soon)</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/PatientHealthMonitor">Fullstack Health Monitor (Coming soon)</a>
   
