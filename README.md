@@ -12,7 +12,7 @@
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Backend</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Hacker News Web Scraper</a>  
-- <b>Raspberry Pi</b>
+- <b>Fullstack</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Fullstack Security System (Coming soon)</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/PatientHealthMonitor">Fullstack Health Monitor (Coming soon)</a>
   
