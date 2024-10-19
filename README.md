@@ -5,15 +5,15 @@
 - <b>Machine Learning</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/OceanDataScience">Oceanic Temperature Trends & Predictions</a>
 - <b>API</b>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APITranslatorApp">(Google) Translate App (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/APITranslatorApp">Tenders (Fullstack Website) (Coming soon)</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/APIWeatherApp">(OpenWeather) Weather App</a>
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Backend</b>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Hacker News Web Scraper</a>  
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Backend role in Taskvolt (Fullstack Website)</a>  
 - <b>Fullstack</b>
   - <a href="https://github.com/dileshm/TripTrak">TripTrak Website</a>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Security System for Raspberry Pi (Coming soon)</a>
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Security System for Raspberry Pi with Google Cloud (Coming soon)</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/PatientHealthMonitor">Health Monitor for Raspberry Pi (Coming soon)</a>
   
   
