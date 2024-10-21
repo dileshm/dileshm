@@ -10,7 +10,7 @@
 - <b>Scripting</b>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/JPGtoPNGconverter">JPG to PNG Converter</a>
 - <b>Backend</b>
-  - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Backend role in Taskvolt (Fullstack Website)</a>  
+  - <a href="https://github.com/dileshm/Python-Projects/tree/main/HackerNewsWebScraper">Backend Developer for Taskvolt (Fullstack Website)</a>  
 - <b>Fullstack</b>
   - <a href="https://github.com/dileshm/TripTrak">TripTrak Website</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Security System for Raspberry Pi with Google Cloud (Coming soon)</a>
