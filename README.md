@@ -15,7 +15,7 @@
   - <a href="https://github.com/dileshm/TripTrak">TripTrak Website</a>
   - <a href="https://github.com/dileshm/Python-Projects/tree/main/SecuritySystem">Security System for Raspberry Pi with Google Cloud (Coming soon)</a>
 - <b>Linux System Administration</b>
-  - <a href="">Multiple Projects including usage of Docker, Ansible and WireGuard coming soon</a>
+  - <a href="">Multiple Projects including usage of Docker, Ansible and K8s coming soon</a>
   
 <h2> 🌐 Connect with me:</h2>
 
